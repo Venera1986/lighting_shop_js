@@ -1,0 +1,342 @@
+[
+  {
+    "id": 1,
+    "name": "Ornella A4059PL-4AB Ceiling Chandelier (Artelamp)",
+    "price": {
+      "new": 128.22,
+      "old": 170.0
+    },
+    "image": "images/item-1.png",
+    "availability": {
+      "berlin": 10,
+      "paris": 20,
+      "madrid": 17
+    },
+    "type": ["pendant", "nightlights"],
+    "rating": 30,
+    "goodsOfDay": true
+  },
+  {
+    "id": 2,
+    "name": "Ornella A4059PL-4AB Ceiling Chandelier (Artelamp)",
+    "price": {
+      "new": 117.11,
+      "old": 192.22
+    },
+    "image": "images/item-2.png",
+    "availability": {
+      "berlin": 0,
+      "paris": 0,
+      "madrid": 0
+    },
+    "type": ["pendant", "nightlights"],
+    "rating": 450,
+    "goodsOfDay": false
+  },
+  {
+    "id": 3,
+    "name": "Ornella A4059PL-4AB Ceiling Chandelier (Artelamp)",
+    "price": {
+      "new": 161.72,
+      "old": 247.78
+    },
+    "image": "images/item-3.png",
+    "availability": {
+      "berlin": 10,
+      "paris": 20,
+      "madrid": 17
+    },
+    "type": ["pendant", "overhead", "point"],
+    "rating": 11,
+    "goodsOfDay": true
+  },
+  {
+    "id": 4,
+    "name": "Ornella A4059PL-4AB Ceiling Chandelier (Artelamp)",
+    "price": {
+      "new": 72.67,
+      "old": 114.44
+    },
+    "image": "images/item-4.png",
+    "availability": {
+      "berlin": 0,
+      "paris": 0,
+      "madrid": 0
+    },
+    "type": ["pendant", "ceiling"],
+    "rating": 285,
+    "goodsOfDay": false
+  },
+  {
+    "id": 5,
+    "name": "Ornella A4059PL-4AB Ceiling Chandelier (Artelamp)",
+    "price": {
+      "new": 94.89,
+      "old": 136.67
+    },
+    "image": "images/item-5.png",
+    "availability": {
+      "berlin": 10,
+      "paris": 20,
+      "madrid": 17
+    },
+    "type": ["pendant", "ceiling", "overhead"],
+    "rating": 23,
+    "goodsOfDay": true
+  },
+  {
+    "id": 6,
+    "name": "Ornella A4059PL-4AB Ceiling Chandelier (Artelamp)",
+    "price": {
+      "new": 194.89,
+      "old": 303.33
+    },
+    "image": "images/item-6.png",
+    "availability": {
+      "berlin": 15,
+      "paris": 25,
+      "madrid": 13
+    },
+    "type": ["pendant", "nightlights"],
+    "rating": 75,
+    "goodsOfDay": false
+  },
+  {
+    "id": 7,
+    "name": "Ornella A4059PL-4AB Ceiling Chandelier (Artelamp)",
+    "price": {
+      "new": 139.33,
+      "old": 181.11
+    },
+    "image": "images/item-7.png",
+    "availability": {
+      "berlin": 10,
+      "paris": 20,
+      "madrid": 17
+    },
+    "type": ["nightlights"],
+    "rating": 79,
+    "goodsOfDay": true
+  },
+  {
+    "id": 8,
+    "name": "Ornella A4059PL-4AB Ceiling Chandelier (Artelamp)",
+    "price": {
+      "new": 144.43,
+      "old": 192.22
+    },
+    "image": "images/item-8.png",
+    "availability": {
+      "berlin": 0,
+      "paris": 0,
+      "madrid": 0
+    },
+    "type": ["pendant", "ceiling"],
+    "rating": 97,
+    "goodsOfDay": false
+  },
+  {
+    "id": 9,
+    "name": "Ornella A4059PL-4AB Ceiling Chandelier (Artelamp)",
+    "price": {
+      "new": 206.0,
+      "old": 220.0
+    },
+    "image": "images/item-9.png",
+    "availability": {
+      "berlin": 10,
+      "paris": 20,
+      "madrid": 17
+    },
+    "type": ["overhead"],
+    "rating": 99,
+    "goodsOfDay": true
+  },
+  {
+    "id": 10,
+    "name": "Ornella A4059PL-4AB Ceiling Chandelier (Artelamp)",
+    "price": {
+      "new": 139.33,
+      "old": 158.89
+    },
+    "image": "images/item-10.png",
+    "availability": {
+      "berlin": 15,
+      "paris": 112,
+      "madrid": 13
+    },
+    "type": ["pendant", "nightlights"],
+    "rating": 123,
+    "goodsOfDay": false
+  },
+  {
+    "id": 11,
+    "name": "Ornella A4059PL-4AB Ceiling Chandelier (Artelamp)",
+    "price": {
+      "new": 117.11,
+      "old": 192.22
+    },
+    "image": "images/item-11.png",
+    "availability": {
+      "berlin": 10,
+      "paris": 20,
+      "madrid": 17
+    },
+    "type": ["pendant"],
+    "rating": 58,
+    "goodsOfDay": true
+  },
+  {
+    "id": 12,
+    "name": "Ornella A4059PL-4AB Ceiling Chandelier (Artelamp)",
+    "price": {
+      "new": 128.22,
+      "old": 147.78
+    },
+    "image": "images/item-12.png",
+    "availability": {
+      "berlin": 0,
+      "paris": 0,
+      "madrid": 0
+    },
+    "type": ["pendant"],
+    "rating": 584,
+    "goodsOfDay": false
+  },
+  {
+    "id": 13,
+    "name": "Ornella A4059PL-4AB Ceiling Chandelier (Artelamp)",
+    "price": {
+      "new": 250.44,
+      "old": 358.89
+    },
+    "image": "images/item-13.png",
+    "availability": {
+      "berlin": 10,
+      "paris": 20,
+      "madrid": 17
+    },
+    "type": ["point", "nightlights"],
+    "rating": 125,
+    "goodsOfDay": true
+  },
+  {
+    "id": 14,
+    "name": "Ornella A4059PL-4AB Ceiling Chandelier (Artelamp)",
+    "price": {
+      "new": 161.56,
+      "old": 170.0
+    },
+    "image": "images/item-14.png",
+    "availability": {
+      "berlin": 15,
+      "paris": 25,
+      "madrid": 13
+    },
+    "type": ["pendant"],
+    "rating": 536,
+    "goodsOfDay": false
+  },
+  {
+    "id": 15,
+    "name": "Ornella A4059PL-4AB Ceiling Chandelier (Artelamp)",
+    "price": {
+      "new": 206.0,
+      "old": 281.11
+    },
+    "image": "images/item-15.png",
+    "availability": {
+      "berlin": 10,
+      "paris": 20,
+      "madrid": 17
+    },
+    "type": ["pendant", "nightlights"],
+    "rating": 364,
+    "goodsOfDay": true
+  },
+  {
+    "id": 16,
+    "name": "Ornella A4059PL-4AB Ceiling Chandelier (Artelamp)",
+    "price": {
+      "new": 217.11,
+      "old": 270.0
+    },
+    "image": "images/item-16.png",
+    "availability": {
+      "berlin": 15,
+      "paris": 228,
+      "madrid": 13
+    },
+    "type": ["ceiling"],
+    "rating": 30,
+    "goodsOfDay": false
+  },
+  {
+    "id": 17,
+    "name": "Ornella A4059PL-4AB Ceiling Chandelier (Artelamp)",
+    "price": {
+      "new": 94.89,
+      "old": 170.0
+    },
+    "image": "images/item-1.png",
+    "availability": {
+      "berlin": 10,
+      "paris": 20,
+      "madrid": 17
+    },
+    "type": ["pendant", "ceiling", "nightlights"],
+    "rating": 312,
+    "goodsOfDay": true
+  },
+  {
+    "id": 18,
+    "name": "Ornella A4059PL-4AB Ceiling Chandelier (Artelamp)",
+    "price": {
+      "new": 72.67,
+      "old": 158.89
+    },
+    "image": "images/item-2.png",
+    "availability": {
+      "berlin": 15,
+      "paris": 25,
+      "madrid": 13
+    },
+    "type": ["pendant", "nightlights"],
+    "rating": 318,
+    "goodsOfDay": false
+  },
+  {
+    "id": 19,
+    "name": "Ornella A4059PL-4AB Ceiling Chandelier (Artelamp)",
+    "price": {
+      "new": 117.11,
+      "old": 203.33
+    },
+    "image": "images/item-3.png",
+    "availability": {
+      "berlin": 10,
+      "paris": 20,
+      "madrid": 17
+    },
+    "type": ["overhead", "point", "nightlights"],
+    "rating": 87,
+    "goodsOfDay": true
+  },
+  {
+    "id": 20,
+    "name": "Ornella A4059PL-4AB Ceiling Chandelier (Artelamp)",
+    "price": {
+      "new": 136.0,
+      "old": 197.78
+    },
+    "image": "images/item-4.png",
+    "availability": {
+      "berlin": 15,
+      "paris": 25,
+      "madrid": 13
+    },
+    "type": ["pendant", "ceiling"],
+    "rating": 378,
+    "goodsOfDay": false
+  }
+]
